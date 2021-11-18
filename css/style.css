@@ -1,0 +1,131 @@
+
+
+header{
+    background: linear-gradient(to bottom, rgba(172, 162, 155, 0.582) 0%, rgba(15, 15, 15, 0.418) 100%), url(../images/pho2.jpg);
+    background-size: cover;
+    height: 500px;
+}
+/*
+masthead {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+}
+masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: linear-gradient(to bottom, rgba(190, 181, 174, 0.295) 0%, rgba(207, 145, 100, 0.363) 100%), url(../images/pho2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}*/
+hr.divider {
+    height: 0.2rem;
+    max-width: 40.25rem;
+    margin: 1.5rem auto;
+    background-color: #f7f5f4;
+    opacity: 1;
+}
+hr.divise {
+    height: 0.2rem;
+    max-width: 6.25rem;
+    margin: 1.5rem auto;
+    background-color: #ffffff;
+    opacity: 1;
+}
+.all {
+    height: 15.2rem;
+    max-width: 100.25rem;
+    background-color: #796f77;
+    opacity: 1;
+}
+.made {
+    margin: 2.5rem auto;
+    color: #61095a;
+    opacity: 1;
+}
+.av {
+    list-style: none;
+    color: #ffffff;
+    
+
+}
+
+footer{
+    height: 25.2rem;
+    max-width: 100.25rem;
+    margin: auto;
+    background-color: #79726f;
+    opacity: 1; 
+}
+.lam{
+    -ms-zoom-animation: default;
+}
+.and {
+    margin: 2.5rem auto;
+    color: #000000;
+    opacity: 1;
+}
+.add {
+    margin: 2.5rem auto;
+    opacity: 1;
+}
+.B{
+	background-color: #c3b2e3;
+	padding: 5px;
+    width: 210px;
+    margin: 0 auto 25px;
+    z-index: 3;
+    position: relative
+}
+
+
+.s{
+	background-color: coral;
+	padding: 5px;
+    width: 210px;
+    margin: 0 auto 25px;
+    z-index: 3;
+    position: relative
+}
+
+.m{
+	background-color:cyan;
+	padding: 5px;
+    width: 210px;
+    margin: 0 auto 25px;
+    z-index: 3;
+    position: relative
+}
+
+.fall{
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom:10px;
+	background-color: antiquewhite
+}
+
+.fal{
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom:0px;
+	background-color: antiquewhite
+}
+
+.n{
+	background-color: burlywood;
+	padding: 5px;
+    width: 210px;
+    margin: 0 auto 25px;
+    z-index: 3;
+    position: relative
+}
+/*.jil{
+    background-image: url(../images/pho2.jpg);
+   background-image: image(../images/pho2.jpg);
+}*/
